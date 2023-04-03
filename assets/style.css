@@ -35,7 +35,7 @@
 
 
 .barra_nav{
-    background-color: #034AA6;
+    background-color: #034AA6; 
     margin-top:40px;
     padding:10px;
     text-align: center;
@@ -67,6 +67,10 @@
     margin-right: 40vw;
 }
 
+.contenido h2{
+    background-color: rgb(78, 217, 74, 0.5);
+    
+}
 .contenido p{
     margin-top: 30px;
     
